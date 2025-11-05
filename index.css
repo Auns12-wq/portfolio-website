@@ -380,6 +380,10 @@ input, textarea
   {
     grid-template-columns: repeat(2,1fr);
   }
+    body{
+    margin-left: 25px;
+    margin-right: 25px;
+  }
   .contact-grid
   {
     grid-template-columns: 1fr;
@@ -468,4 +472,5 @@ a
     {
         width: 100%;
     }
+
 }
